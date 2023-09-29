@@ -60,7 +60,7 @@ export default () => {
           ©2023 Netflix Clone
         </span>{" "}
         <br /> All rights reserved to Netflix | All data rights reserved to
-        Themoviedb.org
+        badaccuracy.id
       </footer>
 
       {movieList.length <= 0 && (
