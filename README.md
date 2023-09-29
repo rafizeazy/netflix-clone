@@ -13,6 +13,8 @@
   <a href="#">Start your free trial today!</a>
 </div>
 
+<br>
+
 <div class="description">
   <h2>Netflix Clone: Tonton Film dan Acara TV Favorit Anda Kapan Saja, Di Mana Saja</h2>
   <p>Selamat datang di Netflix Clone, tempat terbaik untuk menonton film dan acara TV favorit Anda kapan saja, di mana saja. Dengan banyak pilihan judul untuk dipilih, Anda pasti akan menemukan sesuatu yang Anda sukai. Dan dengan paket berlangganan terjangkau kami, Anda dapat menonton sepuasnya, tanpa menguras kantong.</p>
@@ -26,45 +28,5 @@
   <a href="#">Mulai uji coba gratis Anda hari ini!</a>
 </div>
 
-## CSS Code
-
-```css
-.description {
-  width: 500px;
-  margin: 0 auto;
-  padding: 20px;
-  background-color: #fff;
-  border: 1px solid #ccc;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
-}
-
-.description h2 {
-  font-size: 24px;
-  margin-bottom: 10px;
-}
-
-.description p {
-  font-size: 16px;
-  line-height: 1.5;
-}
-
-.description ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-.description li {
-  margin-bottom: 10px;
-}
-
-.description a {
-  font-size: 16px;
-  color: #000;
-  text-decoration: none;
-}
-
-.description a:hover {
-  text-decoration: underline;
-}
 
 
