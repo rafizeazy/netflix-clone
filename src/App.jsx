@@ -57,10 +57,10 @@ export default () => {
 
       <footer>
         <span style={{ color: "#F8D210", fontWeight: "bold" }}>
-          ©2023 Netflix Clone
+          ©2024 Netflix Clone
         </span>{" "}
         <br /> All rights reserved to Netflix | All data rights reserved to
-        badaccuracy.id
+        RF
       </footer>
 
       {movieList.length <= 0 && (
